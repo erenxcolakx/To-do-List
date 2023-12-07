@@ -1,0 +1,50 @@
+#header{
+    background: yellow;
+}
+#to-do-rectangle{
+    background-color: yellow;
+    width: 400px;
+    height: 500px;
+    position: relative;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+    box-shadow: 10px 10px 5px rgb(0, 0, 0);
+}
+button{
+    background-color: transparent;
+    border: 0;
+}
+#todo-container {
+    width: 380px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+#addEventButton{
+    background-color: yellow;
+    border-color: black;
+    border-radius: 15%;
+    -webkit-border-radius: 15%;
+    -moz-border-radius: 15%;
+    -ms-border-radius: 15%;
+    -o-border-radius: 15%;
+}
+#to-do-list {
+    overflow-y: auto;
+    max-height: 380px;
+    margin-top: 10px;
+}
+#list-items{
+    background-color: rgb(255, 255, 0);
+    border-bottom: 1px solid rgb(255, 255, 0);
+}
+.completed {
+    text-decoration: line-through;
+  }
+.to-do-text{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+}
