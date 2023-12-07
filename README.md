@@ -9,10 +9,9 @@ This project is Capstone Project of Angela Yu's Web Dev 2023 Bootcamp
 ## TO-DO
 <li> Deleting Operation on Server </li>
 
-<a href=""> Click to go to Website ✨ </a>
+<a href=""> Click to go to Website ✨ (Will be added soon) </a>
 
-[![Product Name Screen Shot][product-screenshot]]()
-
+[![Product Name Screen Shot][product-screenshot]](https://github.com/erenxcolakx/To-do-List/blob/master/images/ss.png)
 
 
 ### Built With
@@ -38,7 +37,7 @@ This project is Capstone Project of Angela Yu's Web Dev 2023 Bootcamp
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: https://github.com/erenxcolakx/Half-Life-WikiSite/blob/main/images/Half-LifeSite.png
+[product-screenshot]: https://github.com/erenxcolakx/To-do-List/blob/master/images/ss.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
