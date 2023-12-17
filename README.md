@@ -9,8 +9,6 @@ This project is Capstone Project of Angela Yu's Web Dev 2023 Bootcamp
 ## TO-DO
 <li> Deleting Operation on Server </li>
 
-<a href=""> Click to go to Website ✨ (Will be added soon) </a>
-
 [![Product Name Screen Shot][product-screenshot]](https://github.com/erenxcolakx/To-do-List/blob/master/images/ss.png)
 
 
