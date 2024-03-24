@@ -6,9 +6,6 @@ This project is Capstone Project of Angela Yu's Web Dev 2023 Bootcamp
 <h3> That's a ToDo List program which can make adding operations on server-side </h3>
 <hr>
 
-## TO-DO
-<li> Deleting Operation on Server </li>
-
 [![Product Name Screen Shot][product-screenshot]](https://github.com/erenxcolakx/To-do-List/blob/master/images/ss.png)
 
 
